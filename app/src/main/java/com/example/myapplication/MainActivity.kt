@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var str:String = "Firebase to connect"
+        var strMVVM:String = "MVVM to connect"
     }
 }
